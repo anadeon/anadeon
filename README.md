@@ -3,6 +3,7 @@
 - Meu nome é Ana 👋🏻
 - Estudante de Engenharia da Computação com interesse em programação front-end 👩🏻‍💻
 
-## Sobre Mim
+## 💡
+Explorando e aprimorando minhas habilidades na área da tecnologia! Afinal, como disse Steve Jobs:
+> "A tecnologia move o mundo" - Steve Jobs
 
-Estou sempre em busca de aprender novas habilidades e aprimorar meu conhecimento nesta área
