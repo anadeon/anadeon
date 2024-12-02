@@ -11,3 +11,6 @@
 Sempre explorando e aprimorando minhas habilidades na área da tecnologia! Afinal, como disse Steve Jobs:
 > "A tecnologia move o mundo" - Steve Jobs
 
+## 📫
+LinkedIn: https://www.linkedin.com/in/ana-gabriela-deon-9888a32b8/
+
