@@ -1,7 +1,7 @@
 # Olá, Mundo! 🌟
 
 - Meu nome é Ana 👋🏻
-- Estudante de Engenharia da Computação
+- Estudante de Análise e Desenvolvimento de Sistemas
 - Interessada em desenvolvimento frontend e backend
 
 ## 🛠️
